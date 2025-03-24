@@ -2,6 +2,8 @@
 
 ## Guión Análisis de Ventas (Retail)
 
+https://docs.google.com/document/d/13h75QlGcxcgz-OEpH39CxoKPFDl_XFy8/edit
+
 ### CONTEXTO
 Una cadena de distribución de productos de oficina, tecnología y mobiliario desea analizar su histórico de ventas. La base de datos contiene detalles sobre pedidos individuales: cliente, producto, fecha, categoría, segmento, modo de envío, localización y valor de la venta.
 
