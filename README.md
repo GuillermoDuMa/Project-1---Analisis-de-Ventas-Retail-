@@ -42,7 +42,8 @@ Una cadena de distribución de productos de oficina, tecnología y mobiliario de
 ## BLOQUEOS:
 - Order ID: Celdas en blanco no se pueden inputar. ¿Que hacemos con ellas?
 - Fechas: Problemas con la configuracion regional para que el sheet detecte la fecha en formato europeo.
-- Post Codes: Hay campos que si hacemos VLOOKUP con la ciuda como referencia en el listado oficial de zip codes nos da un code pero que se corresponde con otro estado. 
+- Post Codes: Hay campos que si hacemos VLOOKUP con la ciuda como referencia en el listado oficial de zip codes nos da un code pero que se corresponde con otro estado.
+- FIlas duplicadas (992) suponen el 8.80% del total de datos. ¿Que hacemos?
  
 # DIA 2 - 25/03/2025
 
