@@ -14,23 +14,23 @@ Una cadena de distribución de productos de oficina, tecnología y mobiliario de
 - Analizar las ventas por segmento de cliente, región y modo de envío.
 - Proponer al menos dos recomendaciones prácticas basadas en los hallazgos.
 
-## DIA 1 - 24/03/2025
+# DIA 1 - 24/03/2025
 
 - Hoja de ruta.
 - Recolección y Preparación de Datos
 
-# Importar y entender el dataset (.csv)
+## Importar y entender el dataset (.csv)
 
 - Cargar el archivo en Google Sheets.
 - Explorar las dimensiones, tipos de datos y estructura.
 
-# Data Profiling
+## Data Profiling
 
 - Identificar valores nulos, duplicados e inconsistencias.
 - Analizar distribuciones de variables clave.
 - Verificar formatos de fechas, nombres, categorías, etc.
 
-# Limpieza de Datos
+## Limpieza de Datos
 
 - Manejo de valores nulos (imputación o eliminación).
 - Eliminación de duplicados.
