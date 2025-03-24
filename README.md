@@ -19,7 +19,7 @@ Una cadena de distribución de productos de oficina, tecnología y mobiliario de
 # DIA 1 - 24/03/2025
 
 - Hoja de ruta.
-- Recolección y Preparación de Datos
+- Recolección y Preparación de Datos - https://docs.google.com/document/d/1NO3km4OiGzOv3w4OVONZHamDEUgKUzkJtdryy8l9rJQ/edit?tab=t.0 
 
 ## Importar y entender el dataset (.csv)
 
