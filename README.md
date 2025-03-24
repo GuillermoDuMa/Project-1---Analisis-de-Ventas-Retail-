@@ -1,8 +1,8 @@
 # Reboot-Academy - Proyecto 1 - Analisis de Ventas (Retail)
 
 ## Guión Análisis de Ventas (Retail)
-
-https://docs.google.com/document/d/13h75QlGcxcgz-OEpH39CxoKPFDl_XFy8/edit
+.CSV: https://docs.google.com/spreadsheets/d/1Ws6i39c9i5r9aB-5UcIc7W3nwz8JJeFqHUGrkZ8g-5w/edit?gid=796607011#gid=796607011 
+GUIA: https://docs.google.com/document/d/13h75QlGcxcgz-OEpH39CxoKPFDl_XFy8/edit
 
 ### CONTEXTO
 Una cadena de distribución de productos de oficina, tecnología y mobiliario desea analizar su histórico de ventas. La base de datos contiene detalles sobre pedidos individuales: cliente, producto, fecha, categoría, segmento, modo de envío, localización y valor de la venta.
