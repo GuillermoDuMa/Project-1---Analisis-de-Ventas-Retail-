@@ -19,7 +19,10 @@ Una cadena de distribución de productos de oficina, tecnología y mobiliario de
 
 # DIA 1 - 24/03/2025
 
-- Hoja de ruta.
+- Hoja de ruta:
+    * Creación de repo en Github.  
+    * Planificación del proyecto y creación de plantilla kanban de tareas.
+    * 
 - Recolección y Preparación de Datos 
 
 ## Importar y entender el dataset (.csv)
@@ -33,7 +36,7 @@ Una cadena de distribución de productos de oficina, tecnología y mobiliario de
 - Analizar distribuciones de variables clave.
 - Verificar formatos de fechas, nombres, categorías, etc.
 
-## Limpieza de Datos
+## Limpiezade Datos
 
 - Manejo de valores nulos (imputación o eliminación).
 - Eliminación de duplicados.
@@ -43,13 +46,17 @@ Una cadena de distribución de productos de oficina, tecnología y mobiliario de
 ## BLOQUEOS:
 - Order ID: Celdas en blanco no se pueden inputar. ¿Que hacemos con ellas?
 - Fechas: Problemas con la configuracion regional para que el sheet detecte la fecha en formato europeo.
-- Post Codes: Hay campos que si hacemos VLOOKUP con la ciuda como referencia en el listado oficial de zip codes nos da un code pero que se corresponde con otro estado.
-- FIlas duplicadas (992) suponen el 8.80% del total de datos. ¿Que hacemos?
-- 
+- PRoblema para imputar ciertos campos. Solución: Usar función VLOOKUP.
+- FIlas duplicadas (cifra inicial de 992), que suponen el 8.80% del total de datos. ¿Que hacemos?
  
 # DIA 2 - 25/03/2025
 
 Daily brief: Guillermo
+
+## Limpiezade Datos (continuación, mañana)
+
+- Manejo de valores nulos (imputación o eliminación).
+- Eliminación de filas donde todos los valores están duplicados: 1183 filas eliminadas
 
 ## Análisis Exploratorio de Datos (EDA)
 
@@ -79,6 +86,10 @@ Daily brief: Guillermo
 
     Líneas de tiempo para tendencias estacionales.
 
+# DIA 3 - 26/03/2025
+
+Daily brief: Mahalia
+
 3️⃣ Creación del Dashboard en Looker Studio
 
 ✅ Conectar la fuente de datos
@@ -102,6 +113,14 @@ Daily brief: Guillermo
 ✅ Interactividad
 
     Filtros por fecha, región, cliente y categoría de producto.
+
+# DDIA 4 - 27/03/2025
+
+Daily brief: Mahalia
+
+✅ Construcción de visualizaciones (Continuación).
+
+    Organización de gráficas del Dashboard en base a criterios acordados.
 
 4️⃣ Creación de la Presentación en Canva
 
