@@ -19,21 +19,21 @@ Una cadena de distribución de productos de oficina, tecnología y mobiliario de
 
 # DIA 1 - 24/03/2025
 
-- Hoja de ruta:
-    * Creación de repo en Github.  
-    * Planificación del proyecto y creación de plantilla kanban de tareas.
-    * 
+### Hoja de ruta:
+- Creación de repo en Github.
+- Planificación del proyecto y creación de plantilla kanban de tareas.
 - Recolección y Preparación de Datos 
 
-## Importar y entender el dataset (.csv)
+## Importación y primer vistazo del dataset (.csv)
 
 - Cargar el archivo en Google Sheets.
+- Reparto de datos al equipo para su revisión.
+
+## Perfilado de datos (Data Profiling)
+
 - Explorar las dimensiones, tipos de datos y estructura.
-
-## Data Profiling
-
-- Identificar valores nulos, duplicados e inconsistencias.
-- Analizar distribuciones de variables clave.
+- Identificar valores nulos, duplicados e inconsistencias de formato.
+- Analizar distribucion de variables clave con uso de gráficas y XLMiner.
 - Verificar formatos de fechas, nombres, categorías, etc.
 
 ## Limpiezade Datos
@@ -44,11 +44,9 @@ Una cadena de distribución de productos de oficina, tecnología y mobiliario de
 - Corrección de formatos (ej., fechas, moneda, números).
 
 ## BLOQUEOS:
-- Order ID: Celdas en blanco no se pueden inputar. ¿Que hacemos con ellas?
-- Fechas: Problemas con la configuracion regional para que el sheet detecte la fecha en formato europeo.
-- PRoblema para imputar ciertos campos. Solución: Usar función VLOOKUP.
-- FIlas duplicadas (cifra inicial de 992), que suponen el 8.80% del total de datos. ¿Que hacemos?
- 
+- Fechas: Problemas con la configuracion regional para que el sheet detecte la fecha en formato europeo.  
+- Sales: Formato para decimales de cara a estandarizar valores. ¿Formato europeo o americano?  
+  
 # DIA 2 - 25/03/2025
 
 Daily brief: Guillermo
