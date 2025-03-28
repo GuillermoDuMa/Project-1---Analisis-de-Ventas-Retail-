@@ -114,9 +114,9 @@ Daily brief: Mahalia
 
     Filtros por fecha, región, cliente y categoría de producto.
 
-# DDIA 4 - 27/03/2025
+# DIA 4 - 27/03/2025
 
-Daily brief: Mahalia
+Daily brief: Sindy
 
 ✅ Construcción de visualizaciones (Continuación).
 
@@ -142,7 +142,11 @@ Daily brief: Mahalia
 
     Síntesis de los hallazgos y próximos pasos.
 
-5️⃣ Entrega Final y Feedback
+# DIA 5 - 28/03/2025
+
+Daily brief: Ricardo
+
+5️⃣ FInalizacion y ensayo de la presentación con CANVA.
 
 ✅ Revisión y refinamiento
 
@@ -150,14 +154,6 @@ Daily brief: Mahalia
 
     Validar que el dashboard sea interactivo y claro.
 
-✅ Presentación al cliente
+✅ 
 
     Explicar los insights y recomendaciones de manera clara y enfocada.
-
-
-
-1. Data Exploration
-2. Data  profiling
-3. Data cleaning
-4. Data analysis
-5. Data Visualization
