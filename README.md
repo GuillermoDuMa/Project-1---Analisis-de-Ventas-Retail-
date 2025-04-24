@@ -25,8 +25,6 @@ Una cadena de distribución de productos de oficina, tecnología y mobiliario de
 - Analizar las ventas por segmento de cliente, región y modo de envío.
 - Proponer al menos dos recomendaciones prácticas basadas en los hallazgos.
 
-# DIA 1 - 24/03/2025
-
 ### Hoja de ruta:
 - Creación de repo en Github.
 - Planificación del proyecto y creación de plantilla kanban de tareas.
@@ -50,17 +48,6 @@ Una cadena de distribución de productos de oficina, tecnología y mobiliario de
 - Eliminación de duplicados.
 - Estandarización de nombres de productos, regiones y categorías.
 - Corrección de formatos (ej., fechas, moneda, números).
-
-## BLOQUEOS:
-- Fechas: Problemas con la configuracion regional para que el sheet detecte la fecha en formato europeo.  
-- Sales: Formato para decimales de cara a estandarizar valores. ¿Formato europeo o americano?  
-  
-# DIA 2 - 25/03/2025
-
-Daily brief: Guillermo
-
-## Limpiezade Datos (continuación, mañana)
-
 - Manejo de valores nulos (imputación o eliminación).
 - Eliminación de filas donde todos los valores están duplicados: 1183 filas eliminadas
 
@@ -92,10 +79,6 @@ Daily brief: Guillermo
 
     Líneas de tiempo para tendencias estacionales.
 
-# DIA 3 - 26/03/2025
-
-Daily brief: Mahalia
-
 3️⃣ Creación del Dashboard en Looker Studio
 
 ✅ Conectar la fuente de datos
@@ -119,10 +102,6 @@ Daily brief: Mahalia
 ✅ Interactividad
 
     Filtros por fecha, región, cliente y categoría de producto.
-
-# DIA 4 - 27/03/2025
-
-Daily brief: Sindy
 
 ✅ Construcción de visualizaciones (Continuación).
 
@@ -148,10 +127,6 @@ Daily brief: Sindy
 
     Síntesis de los hallazgos y próximos pasos.
 
-# DIA 5 - 28/03/2025
-
-Daily brief: Ricardo
-
 5️⃣ FInalizacion y ensayo de la presentación con CANVA.
 
 ✅ Revisión y refinamiento
@@ -163,3 +138,7 @@ Daily brief: Ricardo
 ✅ 
 
     Explicar los insights y recomendaciones de manera clara y enfocada.
+
+## BLOQUEOS:
+- Fechas: Problemas con la configuracion regional para que el sheet detecte la fecha en formato europeo.  
+- Sales: Formato para decimales de cara a estandarizar valores. ¿Formato europeo o americano?  
