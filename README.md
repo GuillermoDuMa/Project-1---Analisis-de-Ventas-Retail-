@@ -1,5 +1,7 @@
 # Reboot-Academy - Proyecto 1 - Analisis de Ventas (Retail)
 
+Proyecto realizado por: @GuillermoDuMa, @MahaliaYM, @Rarvelom, @Sindy138
+
 ## Recursos 
 
 - **.CSV:** https://docs.google.com/spreadsheets/d/1Ws6i39c9i5r9aB-5UcIc7W3nwz8JJeFqHUGrkZ8g-5w/edit?gid=796607011#gid=796607011  
