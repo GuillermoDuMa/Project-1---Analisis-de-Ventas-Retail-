@@ -4,7 +4,8 @@
 
 - **.CSV:** https://docs.google.com/spreadsheets/d/1Ws6i39c9i5r9aB-5UcIc7W3nwz8JJeFqHUGrkZ8g-5w/edit?gid=796607011#gid=796607011  
 - **GUIA:** https://docs.google.com/document/d/13h75QlGcxcgz-OEpH39CxoKPFDl_XFy8/edit  
-- **Documentacion proyecto:** https://docs.google.com/document/d/1NO3km4OiGzOv3w4OVONZHamDEUgKUzkJtdryy8l9rJQ/edit?tab=t.0  
+- **Documentacion proyecto:** https://docs.google.com/document/d/1NO3km4OiGzOv3w4OVONZHamDEUgKUzkJtdryy8l9rJQ/edit?tab=t.0
+- **Looker Studio Dashboard** https://lookerstudio.google.com/reporting/0dbdd5a2-16f0-4373-b14c-82d1493ffb49  
 - **CANVA presentación:** https://www.canva.com/design/DAGivERvta8/gUROBhEPa47AyBdGd55U3A/edit
 
 ## Guión Análisis de Ventas (Retail)
